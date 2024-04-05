@@ -1,0 +1,11 @@
+.frame {
+background-color: rgb(255, 255, 255);
+  width: 900px;
+  height: 150px;
+  position: fixed;
+  padding-top: 1rem;
+  padding-left: 3rem;
+  top: 200px;
+  left: 290px;
+  border: 1px solid black;
+}
